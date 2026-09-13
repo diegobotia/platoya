@@ -1,7 +1,7 @@
 # PRD — PlatoYa
 
 **Producto:** PlatoYa  
-**Tipo:** Sistema web de reserva y pedido de platos de restaurante  
+**Tipo:** Sistema web automatizado de reserva y pedido de platos de restaurante  
 **Versión del documento:** 1.0  
 **Estado:** Implementado (MVP)  
 **Última actualización:** 2026-09-12  
