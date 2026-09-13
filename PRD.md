@@ -2,7 +2,7 @@
 
 **Producto:** PlatoYa  
 **Tipo:** Sistema web automatizado de reserva y pedido de platos de restaurante  
-**Versión del documento:** 1.0  
+**Versión del documento:** 2.0  
 **Estado:** Implementado (MVP)  
 **Última actualización:** 2026-09-12  
 
