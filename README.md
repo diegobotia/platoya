@@ -2,7 +2,7 @@
 
 Sistema de reserva y pedido de platos con frontend Next.js y backend Express + Socket.IO + MongoDB.
 
-## Requisitos
+## Requisitos iniciales
 
 - Node.js 20+
 - MongoDB local o [MongoDB Atlas](https://www.mongodb.com/atlas)
